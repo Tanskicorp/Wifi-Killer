@@ -12,11 +12,8 @@
 ***
 #### ❓How to use it❓
 1)🌍 After entering the program, select the language (do not write options except 1 and 2 to avoid errors)
-
 2)❓ Next, you will be asked if you really want to enter the program if you agree, your Internet will turn off, so if you change your mind, write "n" (do not write options except "y" and "n" to avoid errors)
-
 3)❓ At the next stage, you will be asked the name of your adapter, everything is individual here, but in most cases it is wlan0 (if you enter the wrong adapter name, then at the next stage, nothing will happen except for errors)
-
 4)4️⃣ Now you have 4 options, namely:
 
 1-Scan networks
