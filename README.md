@@ -6,7 +6,7 @@
 ***
 ### ❓How to install it❓
 1) ⬇Install packages:`apt install toilet g++ aircrack-ng`
-2) ⬇Download repository: `git clone https://github.com/Tanskicorp/Wifi-Killer.git`
+2) ⬇Download repository: `git clone https://github.com/Tanskicorp/Wifi-Killer`
 3) ⤵Change directory: `cd Wifi-Killer/`
 4) 🔴Run the utility: `./wifi\ killer`
 ***
